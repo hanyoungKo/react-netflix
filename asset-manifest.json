@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-netflix/static/css/main.e82260b2.css",
+    "main.css": "/react-netflix/static/css/main.a47ab28a.css",
     "main.js": "/react-netflix/static/js/main.403ad939.js",
     "static/js/787.b99ecbe7.chunk.js": "/react-netflix/static/js/787.b99ecbe7.chunk.js",
     "static/media/happy-emoji-svgrepo-com.svg": "/react-netflix/static/media/happy-emoji-svgrepo-com.51be78bf1ba2b57d3e7a8e9df4ae200c.svg",
     "index.html": "/react-netflix/index.html",
-    "main.e82260b2.css.map": "/react-netflix/static/css/main.e82260b2.css.map",
+    "main.a47ab28a.css.map": "/react-netflix/static/css/main.a47ab28a.css.map",
     "main.403ad939.js.map": "/react-netflix/static/js/main.403ad939.js.map",
     "787.b99ecbe7.chunk.js.map": "/react-netflix/static/js/787.b99ecbe7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e82260b2.css",
+    "static/css/main.a47ab28a.css",
     "static/js/main.403ad939.js"
   ]
 }
